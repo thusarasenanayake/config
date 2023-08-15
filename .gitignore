@@ -1,4 +1,5 @@
 temp/
 tmux/plugins
 .vim/
+nvim/
 
